@@ -1,0 +1,42 @@
+			body {
+					background-color: #1E1E1E;
+				}
+			img {
+				display: block;
+				margin-left:auto;
+				margin-right:auto;
+				margin-bottom:80px;
+			}
+			.gallary{
+				background-color: #696969;
+				border-radius: 20px;
+				margin-bottom: 50px;
+				padding: 50px;
+				width: 700px;
+				margin-left: auto;
+				margin-right: auto;
+			}
+			.gallary .photo{
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				width: 400px;
+				border-radius: 20px;
+			}
+			.gallary .title{
+				text-align: center;
+				font-size: 36px;
+				color: #FFD700;
+				margin-bottom: 50px;
+			}
+			.gallary p{
+				font-size: 18px;
+				color: #F0E68C;
+				text-align: center;
+			}
+
+			h1{
+				color:#08CEDD;
+				font-size: 64px;
+				text-align: center;
+			}
