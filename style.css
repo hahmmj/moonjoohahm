@@ -26,7 +26,7 @@ body{
 .intro{
 	background-color: #263056;
 	height: 330px;
-	display: flex;
+	
 }
 .intro .intro2{
 	display: inline-block;
@@ -34,7 +34,7 @@ body{
 	font-family: 'Ubuntu';
 	font-size: 40px;
 	color: #F0EDE7;
-	margin-left: 23em;
+	margin-right: 3em;
 	font-weight: 600;
 }
 #love{
