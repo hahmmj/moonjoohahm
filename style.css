@@ -1,0 +1,62 @@
+<link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
+body{
+	margin: 0;
+}
+
+.link{
+	text-align: center;
+	font-color: blue;
+}
+#container{
+	display: flex;
+	height: 100px;
+}
+#box-left{
+	background: #F0EDE7;
+	flex: 1;
+	padding-top: 30px;
+	font-weight: bold;
+}
+#box-right{
+	background: #F0EDE7;
+	flex: 1;
+	text-align: right;
+	padding-top: 35px;
+}
+.intro{
+	background-color: #263056;
+	height: 330px;
+	display: flex;
+}
+.intro .intro2{
+	display: inline-block;
+	padding: 1em;
+	font-family: 'Ubuntu';
+	font-size: 40px;
+	color: #F0EDE7;
+	margin-left: 23em;
+	font-weight: 600;
+}
+#love{
+	float: left;
+	position: relative;
+	left: 50%;
+	margin-right: 20px;
+}
+#treasure{
+	float: left;
+	position: relative;
+	left: 50%;
+	margin-right: 20px;
+}
+#travel{
+	float: left;
+	position: relative;
+	left:50%;
+}
+#folder{
+	float: right;
+	position: relative;
+	left: -50%;
+	margin-top: 5em;
+}
